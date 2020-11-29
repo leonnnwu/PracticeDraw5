@@ -4,7 +4,8 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import androidx.annotation.Nullable;
-import android.support.v7.widget.AppCompatEditText;
+import androidx.appcompat.widget.AppCompatEditText;
+
 import android.util.AttributeSet;
 
 public class Practice08BeforeDrawView extends AppCompatEditText {

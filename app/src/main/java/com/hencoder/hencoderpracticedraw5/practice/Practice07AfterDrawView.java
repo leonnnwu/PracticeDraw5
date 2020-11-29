@@ -5,7 +5,8 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import androidx.annotation.Nullable;
-import android.support.v7.widget.AppCompatImageView;
+import androidx.appcompat.widget.AppCompatImageView;
+
 import android.util.AttributeSet;
 
 public class Practice07AfterDrawView extends AppCompatImageView {
